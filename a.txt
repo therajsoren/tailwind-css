@@ -1,0 +1,9 @@
+1. tailwind css matlab ki aapko css haath se nahi likhni hai sirf class lagaani 
+
+2. tailwind css matlab ki appko pahle mobile ke liye code karna hai 
+-------------------------------------------------------------------> 
+MOBILE FIRST APPROACH
+tailwind pe aap jo bhi class likhoge wo ye maan ke likhiye ki mobile screen ko banaya jaa raha hai , pahle desktop nahi mobile ki screen ko code karte hai and uske baad hi app tablet ya desktop nahi mobile ki screen ko code karte hai and uske baad hi app tablet ya desktop screens ko supportb dete ho
+
+3. tailwind css matlab ki appko responsive ke liye bas breakpoints tagret
+karne hai
